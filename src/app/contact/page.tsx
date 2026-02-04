@@ -221,7 +221,7 @@ export default function ContactPage() {
                 <ul className="space-y-2 text-dark-lighter">
                   <li className="flex items-start">
                     <span className="text-primary mr-2">✓</span>
-                    <span>In-person therapy at our Santa Monica office</span>
+                    <span>In-person therapy at our Santa Monica office \Hybrid Sessions</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-primary mr-2">✓</span>
