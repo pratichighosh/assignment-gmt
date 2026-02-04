@@ -105,7 +105,7 @@ export const OfficeSection: React.FC = () => {
               </svg>
             </div>
             <h3 className="font-heading text-lg mb-2">Session Options</h3>
-            <p className="text-dark-lighter">In-person sessions in Santa Monica<br />Secure telehealth for California residents</p>
+            <p className="text-dark-lighter">In-person sessions in Santa Monica / Hybrid sessions<br />Secure telehealth for California residents</p>
           </motion.div>
 
           {/* Environment */}
